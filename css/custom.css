@@ -1,0 +1,14 @@
+body {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background-image: url(../images/double-bubble-outline.png);
+  background-repeat: repeat;
+}
+.bg-primary {
+  background-color: #a593c2 !important;
+}
+/* Cards */
+.card-footer {
+  background-color: transparent;
+  border-top: 0;
+}
